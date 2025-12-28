@@ -1,5 +1,7 @@
 # 🌦️ Global Weather
 
+![API-Fetch-Project Screenshot](img/screenshot.png)
+
 This project allows you to check the current weather in different cities and countries around the world. It uses the OpenWeather API to fetch real-time weather data and was developed with **HTML**, **CSS**, **JavaScript**, and **TailwindCSS**.
 
 ## 🚀 Features
